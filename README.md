@@ -9,10 +9,7 @@
 <br>
 <h3 align="center">♱</h3>
 <br>
-
-<h1 align="center">♱ 𝔪𝔶 𝔟𝔢𝔰𝔱 𝔰𝔨𝔦𝔩𝔩𝔰 𝔰𝔬 𝔣𝔞𝔯:</h1>
-
-<br> <br>
+<br>
 <div align="center">
 <p>
   I master HTML, CSS, and JavaScript to craft clean, responsive, and immersive user interfaces. I also use Git and GitHub for version control and collaboration. Currently, I’m expanding my arsenal by learning React and React Native, my next steps toward building dynamic, high-performance experiences.

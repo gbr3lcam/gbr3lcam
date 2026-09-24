@@ -83,19 +83,3 @@ Not everything here is meant to be a finished product. This is where I develop, 
   <img src="https://img.shields.io/badge/spotify-black?style=for-the-badge&logo=spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F6glvcbwox7p44danrlm4fz44x%3Fsi%3D65cfa3bd8e6e41ec">
   
 </div>
-
-<br/> <br/>
-
-<div align="center">
-  now listening...
-
-  <br/>
-
-  <a href="https://github.com/tthn0/Spotify-Readme">
-    <img
-      src="https://gbr3lcam.pythonanywhere.com"
-      alt="Current Spotify Song"
-    />
-  </a>
-  
-</div>

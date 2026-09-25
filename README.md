@@ -1,4 +1,4 @@
-<img src="assets/savage2.png" alt="savage banner">
+<h1 align="center">𝕲𝖆𝖇𝖗𝖎𝖊𝖑 𝕮𝖆𝖒𝖆𝖗𝖆</h1>
 
 <div align="center">
   
@@ -91,3 +91,7 @@ Not everything here is meant to be a finished product. This is where I develop, 
   </a>
   
 </div>
+
+<br/>
+
+<img src="assets/savage2.png" alt="savage banner">

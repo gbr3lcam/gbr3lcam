@@ -85,13 +85,9 @@ Not everything here is meant to be a finished product. This is where I develop, 
   <a href="https://mail.google.com/mail/u/0/?to=gabricamara31@gmail.com&fs=1&tf=cm" target="_blank">
     <img src="https://img.shields.io/badge/gabricamara31%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Fto%3Dgabricamara31%40gmail.com%26fs%3D1%26tf%3Dcm">
   </a>
-
-  <a href="https://open.spotify.com/user/6glvcbwox7p44danrlm4fz44x?si=22cb54b710564a09" target="_blank">
-    <img src="https://img.shields.io/badge/spotify-black?style=for-the-badge&logo=spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F6glvcbwox7p44danrlm4fz44x%3Fsi%3D65cfa3bd8e6e41ec">
-  </a>
   
 </div>
 
 <br/>
 
-<img src="assets/savage2.png" alt="savage banner">
+![savage cyber tribal image](https://i.namu.wiki/i/zAYC76wng2wFqJtzGnHrZXcThRMNu-ofvz1MNjnHns6ensu29HF7ZXDleGug6c3xVLnJMYVCVTQ1upp2h-tGAg.webp)
